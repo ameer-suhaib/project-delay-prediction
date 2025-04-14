@@ -39,7 +39,7 @@ A simple machine learning solution to predict project delays based on risk level
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ameer-suhaib/project_delay_distribution.git
-   cd notebooks
+   cd project_delay_distribution/
 
 
 ### Install Dependencies
