@@ -1,11 +1,11 @@
-# 🕒 Project Delay Prediction
+# Project Delay Prediction
 
 A simple machine learning solution to predict project delays based on risk levels and resource allocation. This project also provides a basic mitigation strategy and an interactive what-if simulation using synthetic or sample project management data.
 
 ---
 
 
-## 🧠 Objective
+## Objective
 
 - Predict whether a project is likely to be delayed
 - Visualize factors contributing to delays
@@ -14,7 +14,7 @@ A simple machine learning solution to predict project delays based on risk level
 
 ---
 
-## 🚀 Features
+## Features
 
 - **EDA**: Delay distribution, delay vs. hours, risk vs. delay rate
 - **Modeling**: Logistic Regression
@@ -23,9 +23,9 @@ A simple machine learning solution to predict project delays based on risk level
 
 ---
 
-## 📦 Technologies
+## Technologies
 
-- Python 3.x
+- Python 3.10
 - Pandas
 - Seaborn & Matplotlib
 - Scikit-learn
@@ -34,7 +34,7 @@ A simple machine learning solution to predict project delays based on risk level
 
 ---
 
-## 📌 How to Run
+##  How to Run
 
 1. **Clone the repository**
    ```bash
